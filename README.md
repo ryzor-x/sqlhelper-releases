@@ -2,13 +2,6 @@
 
 Приложение для Windows для работы с базами данных Firebird, SQL-запросами и задачами маркировки.
 
-## Возможности
-
-- Выполнение SQL-запросов и просмотр их истории.
-- Работа с кодами маркировки и генерация Data Matrix.
-- Управление службами Firebird и сервиса маркировки.
-- Встроенная проверка и установка обновлений.
-
 ## Скачать
 
 Откройте [список выпусков](https://github.com/ryzor-x/sqlhelper-releases/releases), выберите нужную версию и скачайте `SQLHelper_<версия>.exe` в разделе **Assets**.
@@ -20,6 +13,6 @@
 
 ## Обновления
 
-Приложение получает сведения о новых версиях из манифестов [stable.json](https://ryzor-x.github.io/sqlhelper-releases/stable.json) и [beta.json](https://ryzor-x.github.io/sqlhelper-releases/beta.json). Перед установкой проверяется SHA-256 скачанного EXE. Удаление предыдущей версии зависит от соответствующей настройки приложения.
+Приложение получает сведения о новых версиях из манифестов [stable.json](https://ryzor-x.github.io/sqlhelper-releases/stable.json) и [beta.json](https://ryzor-x.github.io/sqlhelper-releases/beta.json).
 
 В этом репозитории размещаются готовые выпуски и манифесты обновлений.
