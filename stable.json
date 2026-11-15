@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.4.0.5",
+    "version":  "2.4.0.7",
     "message":  "",
-    "downloadUrl":  "https://github.com/ryzor-x/sqlhelper-releases/releases/download/v2.4.0.5/SQLHelper_2.4.0.5.exe",
-    "sha256":  "3FD5939A19948381AAE61EF7994D64B79BB97E33058EA4AB22E6A8893C00A8D0"
+    "downloadUrl":  "https://github.com/ryzor-x/sqlhelper-releases/releases/download/v2.4.0.7/SQLHelper_2.4.0.7.exe",
+    "sha256":  "67A8287E90A7B6FA3954B0B3E4EDC33B16539597F89389DAD1E182F5DB104CF9"
 }
