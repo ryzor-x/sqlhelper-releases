@@ -1,0 +1,8 @@
+{
+    "schemaVersion":  1,
+    "channel":  "beta",
+    "version":  "2.4.0.2",
+    "message":  "Первый beta-выпуск с обновлениями через GitHub Pages и GitHub Releases; проверка SHA-256.",
+    "downloadUrl":  "https://github.com/ryzor-x/sqlhelper-releases/releases/download/v2.4.0.2-beta/SQLHelper_2.4.0.2.exe",
+    "sha256":  "8E504F7B49678BA673F05506D06F15A8C0BE044E1C7468CE4455C9BCE4BC5B9F"
+}
