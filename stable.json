@@ -2,7 +2,7 @@
     "schemaVersion":  1,
     "channel":  "stable",
     "version":  "2.4.1.11",
-    "message":  "SQLHelper 2.4.1.10\n\n\r\n\r\n• Небольшие улучшения истории подключений.",
+    "message":  "SQLHelper 2.4.1.10\r\n\r\n• Небольшие улучшения истории подключений.",
     "downloadUrl":  "https://github.com/ryzor-x/sqlhelper-releases/releases/download/v2.4.1.11/SQLHelper_2.4.1.11.exe",
     "sha256":  "556A1F0B341EEB5950D10701AB29E4FDAA70C24649C660954F8CD6749755F532"
 }
