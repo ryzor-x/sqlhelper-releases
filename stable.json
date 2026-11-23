@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.4.1.12",
-    "message":  "SQLHelper 2.4.1.12\r\n\r\n• Исправлен признак маркировки: товары с маркировкой ККМ теперь отображаются как «Да», даже если активные коды отсутствуют.\r\n\r\n• Уточнены цвета: зелёный — есть активные коды, синий — только признак маркировки ККМ, красный — маркировка отсутствует.\r\n\r\n• Небольшие улучшения интерфейса.",
-    "downloadUrl":  "https://github.com/ryzor-x/sqlhelper-releases/releases/download/v2.4.1.12/SQLHelper_2.4.1.12.exe",
-    "sha256":  "255023C7221E757CE1DC96C89FFE75B801907E706514171E8A5B99B517197B82"
+    "version":  "2.4.1.14",
+    "message":  "SQLHelper 2.4.1.14\n\n\r\n• Обновлён интерфейс главного окна и настроек.\n\r\n• Улучшена отзывчивость окна сборки дистрибутива.\n\r\n• Добавлено отображение времени сборки в журнале и уведомлении о завершении.",
+    "downloadUrl":  "https://github.com/ryzor-x/sqlhelper-releases/releases/download/v2.4.1.14/SQLHelper_2.4.1.14.exe",
+    "sha256":  "03D10BEA4F8D10B369A15DB326D51BAB4460AB973378F6E05C420D45EA458D1B"
 }
