@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.4.1.14",
-    "message":  "SQLHelper 2.4.1.14\n\n\r\n• Обновлён интерфейс главного окна и настроек.\n\r\n• Улучшена отзывчивость окна сборки дистрибутива.\n\r\n• Добавлено отображение времени сборки в журнале и уведомлении о завершении.",
-    "downloadUrl":  "https://github.com/ryzor-x/sqlhelper-releases/releases/download/v2.4.1.14/SQLHelper_2.4.1.14.exe",
-    "sha256":  "03D10BEA4F8D10B369A15DB326D51BAB4460AB973378F6E05C420D45EA458D1B"
+    "version":  "2.4.1.15",
+    "message":  "",
+    "downloadUrl":  "https://github.com/ryzor-x/sqlhelper-releases/releases/download/v2.4.1.15/SQLHelper_2.4.1.15.exe",
+    "sha256":  "66C5C4786064A9606080FB5E2C0855DD52722E3D24A6BFC6B5391DA7B7A8EF24"
 }
