@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
     "channel":  "stable",
-    "version":  "2.4.1.15",
-    "message":  "",
-    "downloadUrl":  "https://github.com/ryzor-x/sqlhelper-releases/releases/download/v2.4.1.15/SQLHelper_2.4.1.15.exe",
-    "sha256":  "66C5C4786064A9606080FB5E2C0855DD52722E3D24A6BFC6B5391DA7B7A8EF24"
+    "version":  "2.4.1.17",
+    "message":  "SQLHelper 2.4.1.17\r\n\r\n• Добавлено отображение версии обновляемого дистрибутива.\r\n• В журнале сборки появились переход в папку по Ctrl + ЛКМ и пункт «Очистить».\n\r\n• Кнопка открытия каталога теперь доступна во время сборки, а резервное копирование — только в режиме обновления.\n\r\n• Исправлено дублирование пути в заголовке окна сборщика.",
+    "downloadUrl":  "https://github.com/ryzor-x/sqlhelper-releases/releases/download/v2.4.1.17/SQLHelper_2.4.1.17.exe",
+    "sha256":  "D1B8B24AEAAA13B41FBC85135551F67668D9B276A6AC0F9DC138B957125EAE64"
 }
